@@ -1,0 +1,9 @@
+{
+  "name": "multi-account-browser-prototype",
+  "version": "1.0.0",
+  "description": "Isolated multi-profile browser context prototype for AI generation accounts",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
